@@ -2,7 +2,6 @@ import type { Metadata } from 'next';
 
 import MyProvider from './_providers/Provider';
 
-
 import '@/styles/globals.css';
 import Footer from '@/components/layout/Footer';
 import Header from '@/components/layout/Header';
